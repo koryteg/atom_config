@@ -1,0 +1,39 @@
+## packages I use:
+
+sublime style column selection
+
+atom beautify
+
+atom handlebars
+
+atom keyboard macros
+
+busy signal
+
+emmet
+
+file-icons
+
+goto definition
+
+indentions
+
+linter
+
+linter ui default
+
+minimap
+
+minimap git diff
+
+multi cursor
+
+relative numbers
+
+rspec
+
+teletype
+
+vim mode plus
+
+vim mode plus ex mode
