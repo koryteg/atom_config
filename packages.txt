@@ -1,7 +1,5 @@
 ## packages I use:
 
-here is a thing
-
 sublime style column selection
 
 atom beautify
